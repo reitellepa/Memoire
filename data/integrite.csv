@@ -1,0 +1,6 @@
+Abbreviation;Nom_complet;Definition
+EN;Entier;La pièce est entière
+PX;Proximal;La pièce présente la partie proche du talon
+ME;Mesial;La pièce faisait partie d'un plus grand objet, mais ne présente aucune extremité
+DI;Distal;La pièce présente l'extremité à l'opposé du talon
+IN;Indeterminable;Nous ne pouvons pas savoir l'orientation de la pièce
